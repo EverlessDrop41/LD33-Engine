@@ -1,0 +1,10 @@
+c:\users\thomas\documents\visual studio 2015\Projects\LD33-OpenTK\LD33-OpenTK\bin\Debug\LD33-OpenTK.exe.config
+c:\users\thomas\documents\visual studio 2015\Projects\LD33-OpenTK\LD33-OpenTK\bin\Debug\LD33-OpenTK.exe
+c:\users\thomas\documents\visual studio 2015\Projects\LD33-OpenTK\LD33-OpenTK\bin\Debug\LD33-OpenTK.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\LD33-OpenTK\LD33-OpenTK\bin\Debug\OpenTK.dll
+c:\users\thomas\documents\visual studio 2015\Projects\LD33-OpenTK\LD33-OpenTK\bin\Debug\OpenTK.GLControl.dll
+c:\users\thomas\documents\visual studio 2015\Projects\LD33-OpenTK\LD33-OpenTK\bin\Debug\OpenTK.xml
+c:\users\thomas\documents\visual studio 2015\Projects\LD33-OpenTK\LD33-OpenTK\bin\Debug\OpenTK.GLControl.xml
+c:\users\thomas\documents\visual studio 2015\Projects\LD33-OpenTK\LD33-OpenTK\obj\Debug\LD33-OpenTK.csprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2015\Projects\LD33-OpenTK\LD33-OpenTK\obj\Debug\LD33-OpenTK.exe
+c:\users\thomas\documents\visual studio 2015\Projects\LD33-OpenTK\LD33-OpenTK\obj\Debug\LD33-OpenTK.pdb
